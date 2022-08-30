@@ -1,0 +1,15 @@
+.Class-div{
+    width: 40%;
+    height:250px;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid rgb(34, 10, 10);
+    border-radius: 10px;
+    background-color: rgb(233, 230, 221);
+    position: absolute;
+    right: 50px;
+    top: 300px;
+   
+}
+

@@ -1,0 +1,14 @@
+.Fn-div{
+    width: 40%;
+    height:250px;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid rgb(27, 13, 13);
+    border-radius: 10px;
+    background-color: rgb(241, 223, 223);
+    position: absolute;
+    left: 70px;
+    top: 300px;
+    
+}
